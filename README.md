@@ -10,8 +10,9 @@ Notes on papers I read.
 - [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](batch-renormalization.md)
 - [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](acktr.md)
 - [Inverse Reward Design](inverse-reward-design.md) [WIP]
-- [Successor Features for Transfer in Reinforcement Learning](successor-features.md)
-- [Imagination-Augmented Agents for Deep Reinforcement Learning]
+- [Successor Features for Transfer in Reinforcement Learning](successor-features.md) [WIP]
+- [Imagination-Augmented Agents for Deep Reinforcement Learning] [WIP]
+- [WaveNet: A Generative Model for Raw Audio](wavenet.md) [WIP]
 
 ### Oct 2017
 - Parameter Space Noise for Exploration [(paper)](https://arxiv.org/abs/1706.01905)
