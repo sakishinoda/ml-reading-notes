@@ -1,6 +1,7 @@
 
 # Deep Unsupervised Learning
 
+Tutorial at NeurIPS 2018 by Alex Graves and Marc'Aurelio Ranzato.
 
 ## Autoregressive models
 
